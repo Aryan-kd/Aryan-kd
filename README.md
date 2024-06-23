@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Flutter & React Native**
 
-- 👨‍💻 All of my projects are available at [aryankodinya.netlify.app](aryankodinya.netlify.app)
+- 👨‍💻 All of my projects are available at [aryankodinya.netlify.app](https://aryankodinya.netlify.app/)
 
 - 💬 Ask me about **React, Angular, SCSS & Other**
 
