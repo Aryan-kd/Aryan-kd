@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Aryan Kodinya</h1>
-<h3 align="center">A passionate full stack web developer from India</h3>
+<h3 align="center">A passionate MERN stack web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryan-kd&label=Profile%20views&color=0e75b6&style=flat" alt="aryan-kd" /> </p>
 
-- 🔭 I’m currently working on **Home Doctor**
 
-- 🌱 I’m currently learning **Flutter & React Native**
+- 🌱 I’m currently learning **Data Science**
 
 - 👨‍💻 All of my projects are available at [aryankodinya.netlify.app](https://aryankodinya.netlify.app/)
 
