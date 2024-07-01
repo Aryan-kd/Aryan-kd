@@ -4,11 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryan-kd&label=Profile%20views&color=0e75b6&style=flat" alt="aryan-kd" /> </p>
 
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Devops**
 
 - 👨‍💻 All of my projects are available at [aryankodinya.netlify.app](https://aryankodinya.netlify.app/)
 
-- 💬 Ask me about **React, Angular, SCSS & Other**
+- 💬 Ask me about **React, Tailwind CSS, NodeJs, MongoDB, Express & Other**
 
 - 📫 How to reach me **aryan.kodinya@gmail.com**
 
